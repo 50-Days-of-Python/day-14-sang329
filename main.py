@@ -4,7 +4,7 @@ def flat_list(l):
     sdl=[]
     for i in l:
         for j in i:
-            dsl.append(j)
+            sdl.append(j)
 
     
     # Insert Code Above
